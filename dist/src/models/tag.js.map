@@ -1,0 +1,1 @@
+{"version":3,"file":"tag.js","sourceRoot":"","sources":["../../../src/models/tag.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,+DAA4F;AAerF,IAAM,GAAG,GAAT,MAAM,GAAI,SAAQ,4BAA2C;CASnE,CAAA;AATY,kBAAG;AAGZ;IADC,6BAAM;;iCACO;AAKd;IAHC,IAAA,6BAAM,EAAC;QACJ,IAAI,EAAE,+BAAQ,CAAC,MAAM;KACxB,CAAC;;sCACgB;cART,GAAG;IAHf,IAAA,4BAAK,EAAE;QACJ,SAAS,EAAE,KAAK;KACnB,CAAC;GACW,GAAG,CASf"}
